@@ -2,7 +2,7 @@
 
 > Aprender con intención, practicar con criterio y demostrar comprensión.
 
-Bitácora pública de aprendizaje profesional, enfocada en **AI Engineering**, **arquitectura de software** y **producto/negocio tecnológico**.
+Bitácora pública de aprendizaje profesional, que combina ingeniería de IA, arquitectura, producto y otras disciplinas que despierten curiosidad. **[Ver el catálogo ampliado de rutas](routes/catalog.md).**
 
 No es otro proyecto de software. Los ejercicios y prototipos solo tienen sentido si ayudan a aprender.
 
@@ -15,7 +15,10 @@ No es otro proyecto de software. Los ejercicios y prototipos solo tienen sentido
 
 **No medimos progreso por commits, videos vistos, líneas de código ni certificados.**
 
-## Áreas de aprendizaje
+## Rutas de aprendizaje
+El [catálogo de rutas](routes/catalog.md) distingue lo que está **en foco** de aquello que solo está **en exploración**. Explorar no implica fechas ni compromisos.
+
+Áreas iniciales:
 - [AI Engineering](areas/ai-engineering.md)
 - [Arquitectura de software](areas/software-architecture.md)
 - [Producto y negocio](areas/product-and-business.md)
