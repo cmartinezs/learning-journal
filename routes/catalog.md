@@ -39,6 +39,10 @@ Las rutas son áreas de conocimiento, no necesariamente cursos de Udemy. Una rut
 | [Matemáticas, estadística y análisis de datos](mathematics-statistics-data.md) | En exploración | Razonar cuantitativamente, evaluar evidencia e interpretar resultados | Análisis de datos con supuestos y conclusiones explícitas |
 | Finanzas y estrategia emprendedora | En exploración | Entender unit economics, caja y financiación | Análisis de escenarios de negocio |
 
+## Método común para todas las rutas
+
+Todas las rutas pueden utilizar la [plantilla de mapa de aprendizaje](../templates/route-learning-map.md), la [plantilla de cápsula personal](../templates/capsule-note.md) y las [correspondencias conciliadas con ADÜMÜN](../docs/reconciliation-mapping.md). No es necesario materializar el mapa de cada ruta antes de activarla. El [mapa inicial de AI Engineering](ai-engineering-map.md) sirve de ejemplo, no de currículo obligatorio.
+
 ## Antes de activar una ruta
 
 Responder brevemente:
