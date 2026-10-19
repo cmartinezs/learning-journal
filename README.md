@@ -15,6 +15,10 @@ No es otro proyecto de software. Los ejercicios y prototipos solo tienen sentido
 
 **No medimos progreso por commits, videos vistos, líneas de código ni certificados.**
 
+## Estado y acuerdos
+- [Estado actual de mi aprendizaje](STATUS.md) — foco, avances evidenciados y próxima pregunta.
+- [Plan de conciliación con ADÜMÜN](docs/learning-conciliation-plan.md) — las referencias educativas existentes se reutilizan sin desarrollar software en esta bitácora.
+
 ## Rutas de aprendizaje
 El [catálogo de rutas](routes/catalog.md) distingue lo que está **en foco** de aquello que solo está **en exploración**. Explorar no implica fechas ni compromisos.
 
@@ -42,4 +46,4 @@ El nivel debe acompañarse de evidencia; no es una nota global ni un promedio.
 [Diagnóstico inicial de AI Engineering](areas/ai-engineering.md#diagnóstico-inicial) (26 de octubre de 2026). Primero responder sin consultar fuentes y después comparar con lo aprendido.
 
 ## Seguimiento personal
-La planificación y las revisiones de avance se mantienen en [Google Drive](https://drive.google.com/drive/folders/1lvZHqelwNjDQdHaAVoMJytPC0vtyN9Rm). Esta bitácora pública contiene únicamente conocimientos y materiales propios, sin información sensible ni contenido protegido de los cursos.
+El estado personal de aprendizaje se registra aquí, en [STATUS.md](STATUS.md). [Google Drive](https://drive.google.com/drive/folders/1lvZHqelwNjDQdHaAVoMJytPC0vtyN9Rm) conserva archivos privados y material complementario, sin duplicar el estado del repositorio. Esta bitácora pública contiene únicamente conocimientos y materiales propios, sin información sensible ni contenido protegido de los cursos.
