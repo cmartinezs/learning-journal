@@ -24,7 +24,13 @@ Las rutas son áreas de conocimiento, no necesariamente cursos de Udemy. Una rut
 | MLOps y evaluación de modelos | En exploración | Evaluar, versionar y monitorear sistemas ML/IA | Diseño de estrategia de evaluación |
 | Ingeniería de performance | En exploración | Medir y optimizar con evidencia | Hipótesis, experimento y conclusión |
 | Desarrollo móvil moderno | En exploración | Comparar arquitecturas y experiencia móvil | Crítica técnica de una solución Android |
-| Generative Media y creatividad IA | En exploración | Comprender pipelines de imagen, video y consistencia | Estudio comparativo de técnicas |
+| [Creación de entretenimiento con IA](creative-ai-entertainment.md) | En exploración | Dirigir personajes, música, video y experiencias con identidad artística | Estudio creativo crítico o muestra breve evaluada |
+| Composición musical y producción sonora | En exploración | Comprender composición, arreglos y producción musical | Boceto sonoro comentado |
+| Dibujo, ilustración y teoría del color | En exploración | Desarrollar criterio visual y técnica artística | Estudios visuales comparados |
+| Narrativa, guion y construcción de mundos | En exploración | Crear relatos y universos consistentes | Guion corto con revisión crítica |
+| Diseño y desarrollo de videojuegos | En exploración | Relacionar sistemas, narrativa y experiencia de juego | Análisis de mecánicas y experiencia |
+| Psicología cognitiva y ciencia del aprendizaje | En exploración | Comprender memoria, atención y práctica deliberada | Experimento personal de aprendizaje |
+| Pensamiento científico y métodos de investigación | En exploración | Formular hipótesis y valorar la calidad de evidencia | Crítica de un estudio o experimento |
 | UX, research y diseño de producto | En exploración | Evaluar experiencia y decisiones de diseño | Análisis de usabilidad con propuestas |
 | Liderazgo técnico y mentoring | En exploración | Elevar decisiones y aprendizaje de equipos | Caso de liderazgo con alternativas |
 | Docencia, evaluación y aprendizaje | En exploración | Diseñar experiencias y evaluaciones auténticas | Microlección o rúbrica validada |
