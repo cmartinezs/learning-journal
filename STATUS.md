@@ -12,7 +12,12 @@
 ## Lo que está efectivamente hecho
 - Repositorio y catálogo de rutas creados.
 - Preguntas diagnósticas y plantillas de estudio disponibles.
-- Referencias de ADÜMÜN conciliadas en el [plan](docs/learning-conciliation-plan.md).
+- Correspondencias educativas aplicadas en [matriz de conciliación](docs/reconciliation-mapping.md).
+- [Plantilla de cápsula personal](templates/capsule-note.md) y [mapa inicial de IA](routes/ai-engineering-map.md) incorporados sin software.
+- [Plantilla para mapas de cualquier ruta](templates/route-learning-map.md).
+
+## Conciliación
+Conciliación editorial y metodológica aplicada. Las restantes rutas usan una plantilla común cuando se activen; no se han creado mapas especulativos ni se ha modificado ADÜMÜN.
 
 ## Aprendizaje todavía no evidenciado
 Aún no hay sesiones ni evaluaciones diagnósticas reales registradas. **No se atribuyen competencias dominadas sin evidencia.**
