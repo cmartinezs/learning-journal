@@ -17,7 +17,9 @@ No es otro proyecto de software. Los ejercicios y prototipos solo tienen sentido
 
 ## Estado y acuerdos
 - [Estado actual de mi aprendizaje](STATUS.md) — foco, avances evidenciados y próxima pregunta.
-- [Plan de conciliación con ADÜMÜN](docs/learning-conciliation-plan.md) — las referencias educativas existentes se reutilizan sin desarrollar software en esta bitácora.
+- [Conciliación con ADÜMÜN](docs/learning-conciliation-plan.md) — responsabilidades y método.
+- [Correspondencias aplicadas](docs/reconciliation-mapping.md) — reutilización sin software.
+- [Mapa de conocimientos de IA](routes/ai-engineering-map.md) — primera aplicación del método.
 
 ## Rutas de aprendizaje
 El [catálogo de rutas](routes/catalog.md) distingue lo que está **en foco** de aquello que solo está **en exploración**. Explorar no implica fechas ni compromisos.
@@ -28,6 +30,7 @@ El [catálogo de rutas](routes/catalog.md) distingue lo que está **en foco** de
 - [Producto y negocio](areas/product-and-business.md)
 
 ## Plantillas ligeras
+- [Cápsula personal](templates/capsule-note.md)
 - [Sesión de aprendizaje](templates/learning-session.md)
 - [Revisión semanal](templates/weekly-review.md)
 
