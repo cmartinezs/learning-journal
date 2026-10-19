@@ -1,0 +1,47 @@
+# Catálogo de rutas de aprendizaje
+
+> Un mapa de posibilidades, no un backlog. **Explorar ≠ comprometerse.**
+
+Las rutas son áreas de conocimiento, no necesariamente cursos de Udemy. Una ruta puede combinar cursos, libros, papers, proyectos pequeños, debates y experiencia práctica. **Los cursos concretos se seleccionarán y comprobarán en el catálogo de Udemy Business de DUOC al activar cada ruta.**
+
+## Estados
+
+- **En foco:** se estudia actualmente o forma parte del itinerario acordado.
+- **En exploración:** despierta interés; no tiene fechas ni compromiso.
+- **En pausa:** se inició y se decidió detener conscientemente.
+- **Consolidada:** hay evidencias suficientes de dominio, aunque siempre se puede profundizar.
+
+## Mapa de rutas
+
+| Ruta | Estado inicial | ¿Qué quiero saber hacer mejor? | Evidencia sugerida |
+| --- | --- | --- | --- |
+| [AI Engineering y agentes](../areas/ai-engineering.md) | En foco | Diseñar, evaluar y operar soluciones IA confiables | Explicar decisiones y evaluar un caso nuevo |
+| [Arquitectura de software](../areas/software-architecture.md) | En foco | Argumentar trade-offs y arquitecturas evolutivas | Comparar alternativas en un escenario |
+| [Producto y negocio](../areas/product-and-business.md) | En foco | Descubrir problemas y validar propuestas de valor | Análisis de hipótesis con evidencia |
+| Cloud Native, plataforma y SRE | En exploración | Operar sistemas resilientes y observables | Diagnóstico de incidente / decisiones de SLO |
+| Ciberseguridad y AppSec | En exploración | Diseñar seguridad desde la arquitectura | Threat model de un sistema conocido |
+| Data Engineering y analítica | En exploración | Diseñar pipelines y modelos de datos útiles | Explicar calidad, linaje y trade-offs de un pipeline |
+| MLOps y evaluación de modelos | En exploración | Evaluar, versionar y monitorear sistemas ML/IA | Diseño de estrategia de evaluación |
+| Ingeniería de performance | En exploración | Medir y optimizar con evidencia | Hipótesis, experimento y conclusión |
+| Desarrollo móvil moderno | En exploración | Comparar arquitecturas y experiencia móvil | Crítica técnica de una solución Android |
+| Generative Media y creatividad IA | En exploración | Comprender pipelines de imagen, video y consistencia | Estudio comparativo de técnicas |
+| UX, research y diseño de producto | En exploración | Evaluar experiencia y decisiones de diseño | Análisis de usabilidad con propuestas |
+| Liderazgo técnico y mentoring | En exploración | Elevar decisiones y aprendizaje de equipos | Caso de liderazgo con alternativas |
+| Docencia, evaluación y aprendizaje | En exploración | Diseñar experiencias y evaluaciones auténticas | Microlección o rúbrica validada |
+| Inglés profesional y comunicación | En exploración | Argumentar decisiones ante audiencias globales | Presentación grabada y autoevaluada |
+| Finanzas y estrategia emprendedora | En exploración | Entender unit economics, caja y financiación | Análisis de escenarios de negocio |
+
+## Antes de activar una ruta
+
+Responder brevemente:
+1. **Motivo:** ¿qué curiosidad, brecha u oportunidad la vuelve relevante?
+2. **Resultado de aprendizaje:** ¿qué capacidad observable busco adquirir?
+3. **Diagnóstico:** ¿qué sé hoy? ¿qué no puedo explicar o resolver?
+4. **Evidencia:** ¿cómo comprobaré que aprendí?
+5. **Costo de oportunidad:** ¿qué desplaza y por qué vale la pena ahora?
+
+No crear un plan detallado ni fijar fechas para rutas exploratorias. El catálogo puede crecer sin aumentar la carga semanal.
+
+## Regla de enfoque
+
+Como máximo **una ruta principal y una complementaria en actividad simultánea**. Las demás son una biblioteca de posibilidades, no tareas vencidas. Revisar el catálogo durante la reflexión mensual solo si ayuda a ajustar dirección, sin necesidad de 'avanzar' todas las rutas.
