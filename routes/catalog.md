@@ -35,6 +35,8 @@ Las rutas son áreas de conocimiento, no necesariamente cursos de Udemy. Una rut
 | Liderazgo técnico y mentoring | En exploración | Elevar decisiones y aprendizaje de equipos | Caso de liderazgo con alternativas |
 | Docencia, evaluación y aprendizaje | En exploración | Diseñar experiencias y evaluaciones auténticas | Microlección o rúbrica validada |
 | Inglés profesional y comunicación | En exploración | Argumentar decisiones ante audiencias globales | Presentación grabada y autoevaluada |
+| [Marketing, ventas y posicionamiento](marketing-sales.md) | En exploración | Captar y fidelizar clientes como docente, freelance y ADÜMÜN | Estrategia de segmento, propuesta de valor y simulación comercial |
+| [Matemáticas, estadística y análisis de datos](mathematics-statistics-data.md) | En exploración | Razonar cuantitativamente, evaluar evidencia e interpretar resultados | Análisis de datos con supuestos y conclusiones explícitas |
 | Finanzas y estrategia emprendedora | En exploración | Entender unit economics, caja y financiación | Análisis de escenarios de negocio |
 
 ## Antes de activar una ruta
