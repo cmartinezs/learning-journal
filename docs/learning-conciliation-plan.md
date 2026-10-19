@@ -40,6 +40,9 @@ No crear un catálogo exhaustivo de cápsulas antes de estudiar. Crear notas ún
 - `notes/`: notas fechadas cuando existan aprendizajes reales.
 - `templates/`: plantillas opcionales, nunca formularios obligatorios.
 - `docs/learning-conciliation-plan.md`: este acuerdo.
+- `docs/reconciliation-mapping.md`: correspondencias verificadas con ADÜMÜN.
+- `templates/capsule-note.md`: cápsula personal basada en práctica y evidencia.
+- `templates/route-learning-map.md`: formato aplicable a toda ruta al activarse.
 
 **Drive**
 - archivos privados o complementarios que no convenga publicar;
@@ -59,14 +62,17 @@ Identificar y enlazar los tres repositorios de referencia. No tocar su código, 
 ### Fase 1 — contrato editorial y estado único (realizada)
 Dejar este plan y un `STATUS.md` legibles; enlazar ambos desde el README. Conservar plantillas y rutas actuales. No migrar a software ni automatizar.
 
-### Fase 2 — primera experiencia de aprendizaje (pendiente)
+### Fase 2 — conciliación metodológica aplicada (realizada)
+Se incorporaron [correspondencias entre modelos](reconciliation-mapping.md), [cápsulas personales](../templates/capsule-note.md), [mapa de IA](../routes/ai-engineering-map.md) y [plantilla común para otras rutas](../templates/route-learning-map.md). No se creó software ni se declaró aprendizaje completado.
+
+### Fase 3 — primera experiencia de aprendizaje (pendiente)
 - Elegir una pregunta pequeña de AI Engineering.
 - Realizar diagnóstico desde memoria.
 - Seleccionar solo el material preciso de Udemy u otra fuente.
 - Escribir una nota con idea, ejemplo, dificultad, evidencia y siguiente pregunta.
 - Actualizar `STATUS.md` con resultado real. No inventar aprendizaje completado.
 
-### Fase 3 — revisión de utilidad (tras 2–4 semanas de uso)
+### Fase 4 — revisión de utilidad (tras 2–4 semanas de uso)
 Comprobar si las notas ayudan a recordar y explicar, si los prerrequisitos ahorran tiempo y si Drive está aportando valor adicional. Eliminar campos o pasos molestos. Solo después estudiar opciones de integración, **sin compromiso de construirlas**.
 
 ## 6. Criterios de éxito
