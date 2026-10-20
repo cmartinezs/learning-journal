@@ -15,6 +15,7 @@ Las rutas son áreas de conocimiento, no necesariamente cursos de Udemy. Una rut
 
 | Ruta | Estado inicial | ¿Qué quiero saber hacer mejor? | Evidencia sugerida |
 | --- | --- | --- | --- |
+| [Certificaciones DUOC 2026: AIFPC, CAIPC y SPLPC](certifications-duoc-2026.md) | En foco (plazo 30 nov) | Preparar y rendir tres evaluaciones con evidencia y margen de contingencia | Diagnósticos, simulacros y resultados reales |
 | [AI Engineering y agentes](../areas/ai-engineering.md) | En foco | Diseñar, evaluar y operar soluciones IA confiables | Explicar decisiones y evaluar un caso nuevo |
 | [Arquitectura de software](../areas/software-architecture.md) | En foco | Argumentar trade-offs y arquitecturas evolutivas | Comparar alternativas en un escenario |
 | [Producto y negocio](../areas/product-and-business.md) | En foco | Descubrir problemas y validar propuestas de valor | Análisis de hipótesis con evidencia |
@@ -56,4 +57,4 @@ No crear un plan detallado ni fijar fechas para rutas exploratorias. El catálog
 
 ## Regla de enfoque
 
-Como máximo **una ruta principal y una complementaria en actividad simultánea**. Las demás son una biblioteca de posibilidades, no tareas vencidas. Revisar el catálogo durante la reflexión mensual solo si ayuda a ajustar dirección, sin necesidad de 'avanzar' todas las rutas.
+Durante octubre–noviembre 2026, la preparación conjunta de certificaciones constituye un **solo bloque prioritario excepcional con fecha de vencimiento**: alternar CAIPC de fondo y el examen próximo, sin añadir itinerarios Udemy paralelos. Normalmente, como máximo **una ruta principal y una complementaria en actividad simultánea**. Las demás son una biblioteca de posibilidades, no tareas vencidas. Revisar el catálogo durante la reflexión mensual solo si ayuda a ajustar dirección, sin necesidad de 'avanzar' todas las rutas.
