@@ -21,6 +21,9 @@ No es otro proyecto de software. Los ejercicios y prototipos solo tienen sentido
 - [Correspondencias aplicadas](docs/reconciliation-mapping.md) — reutilización sin software.
 - [Mapa de conocimientos de IA](routes/ai-engineering-map.md) — primera aplicación del método.
 
+## Prioridad hasta el 30 de noviembre de 2026
+- [Plan de estudio para tres certificaciones DUOC: AIFPC, CAIPC y SPLPC](routes/certifications-duoc-2026.md). Incluye temarios, solapamientos, fechas objetivo y registro de evidencia. Las fechas de examen son propuestas, no reservas confirmadas.
+
 ## Rutas de aprendizaje
 El [catálogo de rutas](routes/catalog.md) distingue lo que está **en foco** de aquello que solo está **en exploración**. Explorar no implica fechas ni compromisos.
 
