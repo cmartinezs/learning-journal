@@ -3,6 +3,13 @@
 **Actualizado:** 2026-10-19  
 **Naturaleza:** registro personal, no estado de implementación ni certificación formal.
 
+## Prioridad temporal: certificaciones con vencimiento
+- **Plazo comunicado:** 30 de noviembre de 2026 para rendir **AIFPC, CAIPC y SPLPC**.
+- **Plan y seguimiento:** [Certificaciones DUOC — noviembre 2026](routes/certifications-duoc-2026.md).
+- **Estado verificado:** materiales organizados en Drive; diagnósticos, simulacros, reservas y rendiciones **pendientes**.
+- **Fechas objetivo propuestas, no agendadas:** AIFPC 9 nov, SPLPC 17 nov y CAIPC 25 nov. Confirmar condiciones de los vouchers en privado.
+- El itinerario ordinario de Udemy queda **temporalmente subordinado** a preparar los tres exámenes. No se declara completado ni cancelado.
+
 ## Enfoque actual
 - **Ruta principal propuesta:** [AI Engineering](areas/ai-engineering.md).
 - **Rutas también contempladas para el itinerario:** [Arquitectura de software](areas/software-architecture.md) y [Producto y negocio](areas/product-and-business.md).
@@ -23,7 +30,7 @@ Conciliación editorial y metodológica aplicada. Las restantes rutas usan una p
 Aún no hay sesiones ni evaluaciones diagnósticas reales registradas. **No se atribuyen competencias dominadas sin evidencia.**
 
 ## Próxima sesión
-**Desde 2026-10-26 (orientativo):** responder de memoria las cuatro preguntas de [AI Engineering](areas/ai-engineering.md#diagnóstico-inicial); elegir el primer recurso accesible; crear la primera nota solamente después de estudiar y reflexionar.
+**Después de preparar los exámenes (fecha reprogramable):** responder de memoria las cuatro preguntas de [AI Engineering](areas/ai-engineering.md#diagnóstico-inicial); elegir el primer recurso accesible; crear la primera nota solamente después de estudiar y reflexionar.
 
 ## Última revisión
 - Observación: hay metodologías previas de ADÜMÜN reutilizables como referencia.
